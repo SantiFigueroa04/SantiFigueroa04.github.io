@@ -1,0 +1,79 @@
+body {
+    background-color: #ffffff;
+}
+
+.navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-height: 80px; 
+    color: #ffffff;
+}
+
+.navbar-brand img {
+    height: 50px; 
+    width: auto;
+    border-radius: 50px;
+    background-color: transparent;
+}
+.colorbarra {
+    background-color: #0a0332; 
+}
+
+.navbar-collapse{
+    background-color: #0a0332;
+
+}
+
+.navbar .nav-link.active {
+    color: #fff; 
+}
+
+.navbar .nav-link:hover {
+    color: #ffd60a;
+}
+.navbar .nav-link {
+    color: #fff; 
+}
+
+.navbar .nav-link:hover {
+    color: #ffd60a; 
+}
+
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px; 
+    color: #000000c0;
+}
+
+.card-body {
+    min-height: 150px; 
+}
+
+.card-img-top {
+    height: 200px; 
+    object-fit: cover; 
+}
+
+.footer {
+    background-color: #0c0c53f2; 
+    color: #fff;
+}
+
+.footer h5 {
+    color: #ffe414;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.footer p, .footer a {
+    font-size: 14px;
+}
+
+.footer a {
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
